@@ -56,7 +56,7 @@ behance_url:
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path: "_posts" # empty string for all files
     values:
       layout: "post"
       
