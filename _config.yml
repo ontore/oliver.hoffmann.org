@@ -7,13 +7,13 @@ rdiscount:
   extensions: [smart]
 
 # User Options
-name: Bryant
+name: Oliver P. Hoffmann
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: 'A Jekyll theme for long-form writings, essays and beautiful photography.'
+description: '霍夫曼'
 email: 
-twitter: 
+twitter: wiemanindenwald
 icon_url: 
-disqus_shortname: 
+disqus_shortname: wiemanindenwald
 
 # Color Options
 text_color: '#444444'
