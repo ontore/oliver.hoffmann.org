@@ -1,15 +1,3 @@
-+++
-banner = ""
-categories = []
-date = "2016-03-02"
-description = ""
-images = []
-menu = ""
-tags = [ "english" ]
-title = "President Narcissism"
-
-+++
-
 ![alt text](http://res.cloudinary.com/ontore/image/upload/v1456874240/2016-03-Trump-Clinton_xmiuki.jpg "Logo Title Text 1")
 
 The United States of America will elect a new president in November this year and even though the nomination process is far from over, it looks like Hillary Clinton and Donald Trump will be the nominees for their respective political parties. Besides their obvious differences, these two candidates really have a lot in common. They are both typical representatives of the early baby boomer generation, born only one year apart. And they are also both typical of what has become of the baby boomers over the years. Aptly named the **me generation**, boomers are used to seeing themselves as the undisputed center of the universe. When they were children in the 1950s, the American dream was all about providing a safe space for children. When they were young adults in the 1960s, youth culture was all that mattered. The political fashions traced the stages of their lives with uncanny precision. The boomers dominated the US through their sheer numbers and early boomers like Trump and Clinton were always on the forefront of every new wave. They still are. The ageing American population will have the oldest candidates ever to fight for the presidency. And after seven decades of life in the **me** generation, the attitude of these two candidates has solidified into some kind of professional narcissism. Or, to be more precise: Their public persona suffers from narcissistic personality disorder (NPD). There are slight differences in how this disorder manidests itself in each candidate. One is male, one female, one right and one left, but the main symptoms are present in both. First of all the lack of empathy. Hillary Clinton is working hard on hinding this deficit. "We need more compassion" is one of her slogans now. Not that she would know much about compassion. Wherever she went, she left a trail of damaged, bitter victims behind. What was driving her life over the past half century is certainly not compassion, but the sheer cold will for power and control. And in order to get all the power she wants, she is hiding her true nature now as much as she can. Donald Trump on the other hand does not hide anything. He has turned his lack of compassion into an art form. He has perfected the role of white dominant male. He does not even pretend to have any form of empathy. It is either respect or not respect, strength or weakness. Donald Trump is openly narcissist. He is all about winning, being on top. But so is Hillary. She has repeatedly stated that she will do anything to become the first female president. Anything. Let's go through the list of NPD symptoms here:
