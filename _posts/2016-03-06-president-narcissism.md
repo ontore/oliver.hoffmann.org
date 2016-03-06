@@ -8,7 +8,7 @@ The ageing American population will have the oldest candidates ever to fight for
 
 First of all the lack of empathy. Hillary Clinton is working hard on hiding this deficit. "We need more compassion" is one of her slogans now. Not that she would know much about compassion. Wherever she went, she left a trail of damaged, bitter victims behind. The force driving her life over the past half century was certainly not compassion, but the sheer cold will for power and control. And in order to get all the power she wants, she is hiding her true nature now as much as she can.
 
-Donald Trump on the other hand does not hide anything. He has turned his lack of compassion into an art form. He has perfected the role of white dominant male and does not even pretend to have any form of empathy. It is either respect or not respect, strength or weakness for him. Donald Trump is openly narcissist. He is all about winning, being on top. But so is Hillary, in a more controlled way. She has repeatedly stated that she will do anything to become the first female president. Anything.
+Donald Trump on the other hand does not hide anything. He has turned his lack of compassion into an art form. He has perfected the role of white dominant male and does not even pretend to have any form of empathy. It is either respect or no respect, strength or weakness for him. Donald Trump is openly narcissist. He is all about winning, being on top. But so is Hillary, in a more controlled way. She has repeatedly stated that she will do anything to become the first female president. Anything.
 
 Let's go through the list of NPD symptoms here:
 
