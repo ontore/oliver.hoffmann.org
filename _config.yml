@@ -52,3 +52,11 @@ spotify_url:
 # skype_url: skype:oliver.hoffmann?call
 # soundcloud_url: https://soundcloud.com/ontore
 behance_url: 
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "post"
+      
