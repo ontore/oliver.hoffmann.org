@@ -12,7 +12,7 @@ baseurl:   # Leave this blank unless you are using a directory other than the ro
 description: '霍夫曼'
 email: 
 twitter: wiemanindenwald
-icon_url: 
+icon_url: http://res.cloudinary.com/ontore/image/upload/v1457283748/YVXbTeoF_cdipm1.jpg
 disqus_shortname: wiemanindenwald
 
 # Color Options
