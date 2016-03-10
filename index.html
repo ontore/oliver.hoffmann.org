@@ -15,7 +15,7 @@ weight: 1
           <h2><a href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ post.url }}">{{ post.title }}</h2></a>
         </header>
         <section>
-        {{ post.content }}
+        {{ post.excerpt }}
       <!-- photo post -->
       {% elsif post.type == 'photo' %}
       <article class="photo">
@@ -42,7 +42,7 @@ weight: 1
             <li>Focal: <strong>{{ post.focal_length }}</strong></li>
             {% endif %}
           </ul>
-          {{ post.content }}
+          {{ post.excerpt }}
       <!-- quote post -->
       {% elsif post.type == 'quote' %}
       <article class="quote">
@@ -51,7 +51,7 @@ weight: 1
         </header>
         <section>
           {% if post.source %}<p>{{ post.source }}</p>{% endif %}
-          {{ post.content }}
+          {{ post.excerpt }}
       <!-- link post -->
       {% elsif post.type == 'link' %}
       <article class="link">
@@ -59,7 +59,7 @@ weight: 1
           <h2><a href="{{ post.link }}"><span>{{ post.title }}</span></a></h2>
         </header>
         <section>
-          {{ post.content }}
+          {{ post.excerpt }}
       <!-- embed post -->
       {% elsif post.type == 'embed' %}
       <article class="video">
@@ -67,7 +67,7 @@ weight: 1
           {{ post.embed_code }}
         </header>
         <section>
-          {{ post.content }}
+          {{ post.excerpt }}
       <!-- any other post -->
       {% else %}
       <article class="text">
