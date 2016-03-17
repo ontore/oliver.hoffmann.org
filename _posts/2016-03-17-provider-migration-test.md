@@ -1,1 +1,1 @@
-Just checking if the provider migration worked
+Just checking if the domain migration worked
