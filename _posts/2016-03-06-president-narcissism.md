@@ -1,6 +1,6 @@
-![alt text](http://res.cloudinary.com/ontore/image/upload/v1456874240/2016-03-Trump-Clinton_xmiuki.jpg "Logo Title Text 1")
-
 The United States of America will elect a new president in November this year and even though the nomination process is far from over, it looks like Hillary Clinton and Donald Trump will be the nominees for their respective political parties. Besides their obvious differences, these two candidates really have a lot in common. They are both typical representatives of the early baby boomer generation, born only one year apart. And they are also both typical of what has become of the baby boomers over the years.
+
+![alt text](http://res.cloudinary.com/ontore/image/upload/v1456874240/2016-03-Trump-Clinton_xmiuki.jpg "Logo Title Text 1")
 
 Aptly named the **me generation**, boomers are used to seeing themselves as the undisputed center of the universe. When they were children in the 1950s, the American dream was all about providing a safe space for children. When they were young adults in the 1960s, youth culture was all that mattered. The political fashions traced the stages of their lives with uncanny precision. The boomers dominated the US through their sheer numbers and early boomers like Trump and Clinton were always on the forefront of every new wave. They still are.
 
