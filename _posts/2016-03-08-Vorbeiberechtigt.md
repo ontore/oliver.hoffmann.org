@@ -1,6 +1,6 @@
-Heute ist es so weit. Wir müssen reden, liebe Frau. Über Dich. Heute ist Frauentag und da geht es um Dich. Nur um Dich. Es geht nicht darum, was ich gemacht habe. Oder was andere Männer irgendwo oder irgendwann gemacht haben. Es geht darum, was Du willst und was Du tust. Das passt nämlich nicht zusammen.
-
 ![Vorbeiberechtigt](http://res.cloudinary.com/ontore/image/upload/v1457428504/Emma-Watson-Bling-Ring-12_ccgve2.jpg)
+
+Heute ist es so weit. Wir müssen reden, liebe Frau. Über Dich. Heute ist Frauentag und da geht es um Dich. Nur um Dich. Es geht nicht darum, was ich gemacht habe. Oder was andere Männer irgendwo oder irgendwann gemacht haben. Es geht darum, was Du willst und was Du tust. Das passt nämlich nicht zusammen.
 
 Jahrelang hast Du mir erklärt, dass Du Gleichberechtigung willst. Und was tust Du? Wenn das erste Kind kommt, bleibst Du gleich zu Hause und lässt Dich aushalten. Haben wir Dir dafür ein Studium finanziert? Braucht man einen Universitätsabschluss, um ein einzelnes Kind zu betreuen? Wie macht das dann eine Kindergärtnerin, die zehn Kinder auf einmal betreuen kann, ganz ohne akademische Ausbildung?
 
