@@ -1,4 +1,4 @@
-![Hel](https://cloudinary.com/console/media_library#/dialog/image/upload/hel_p1ofjw)
+![Hel](http://res.cloudinary.com/ontore/image/upload/v1458992758/hel_p1ofjw.jpg)
 
 Did you ever wonder why the Greeks are called Hellenes? Or where the struggle between collectivism and individualism comes from? There is a deep connection between Easter, Christianity, marxism, liberarianism, the French revolution, middle class morality, farming, climate change, overpopulation, nationalism and our concept of hell.  In short: It all goes back to the Trojan war. And in more than one way, the Trojan war is not over yet. But before we get to the war itself, let's go back even further, to the dawn of agriculture about 10.000 years ago.
 
