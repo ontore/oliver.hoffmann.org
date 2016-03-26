@@ -1,6 +1,6 @@
-Wie spricht man das @ Symbol wirklich aus? Wer kennt noch "Klammeraffe"? Oder "Strudel"? Heute sagt fast jeder "ät", wie im Englischen "at". Das ist auch irgendwie richtig, weil es die Bedeutung richtig andeutet. Die Bedeutung von "an" nämlich. So wie in "an folgender Adresse".
-
 ![@](http://res.cloudinary.com/ontore/image/upload/v1457338338/At-symbol-4.sm_1_obrmy0.jpg)
+
+Wie spricht man das @ Symbol wirklich aus? Wer kennt noch "Klammeraffe"? Oder "Strudel"? Heute sagt fast jeder "ät", wie im Englischen "at". Das ist auch irgendwie richtig, weil es die Bedeutung richtig andeutet. Die Bedeutung von "an" nämlich. So wie in "an folgender Adresse".
 
 Dass das so ist, haben wir Ray Tomlinson zu verdanken. Vor 45 Jahren hat er die email erfunden. Eigentlich nicht email als solches, aber die email-Adresse, wie wir sie heute kennen. Die mit dem @ Symbol in der Mitte. "Redet nicht darüber. Eigentlich sollten wir an etwas anderem arbeiten", soll er seine Kollegen damals gebeten haben. Offenbar war email schon bei ihrer Erfindung eine raffinierte Form der Zeitvergeudung. Aber auch eine kreative Innovation.
 
