@@ -59,4 +59,9 @@ defaults:
       path: "_posts" # empty string for all files
     values:
       layout: "post"
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      tags: Deutsch
       
