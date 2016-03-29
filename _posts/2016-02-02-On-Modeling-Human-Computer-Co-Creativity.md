@@ -1,4 +1,4 @@
-*Abstract:*
+**Abstract:**
 
 > Do we have a scientific model of creativity as emerging from contributions of computer users, computer systems and their interaction? Such a model would require describing the creative process in general, conditions for human creativity, the added value of human-computer cooperation as well as the role and power of computing. All of these topics have been the subject of research, but they have been addressed in different research communities. Potential obstacles for combining research results from research fields such as knowledge engineering and creativity research and properties of a general model of Human-Computer Co-Creativity are discussed.
 
