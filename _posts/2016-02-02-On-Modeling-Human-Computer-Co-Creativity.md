@@ -128,7 +128,7 @@ By such a deep integration of key research notions across disciplines, system pr
 
 4.  converge: consistent solutions are generated
 
-Among other things, these hypotheses entail that a scenario opposite to those described in the previous sections should be equally feasible: The computer as divergent agent and the human as convergent partner. One scenario would be the diverging computer partner generating seemingly inconsistent material with the human partner selecting and finally merging some of this material into something new. (Fig.  [fig:human-computer5]).
+Among other things, these hypotheses entail that a scenario opposite to those described in the previous sections should be equally feasible: The computer as divergent agent and the human as convergent partner. One scenario would be the diverging computer partner generating seemingly inconsistent material with the human partner selecting and finally merging some of this material into something new.
 
 If this model is correct, human and computer can be creative in very different ways. The properties for the design of creativity support systems will be different for each of these scenarios, but if these hypotheses are correct, some properties will be relevant for all of them. Neither human nor computer would have to be creative on their own. But if we want to identify Human-Computer Co-Creativity, then we should be able to identify the stages of such a process as well as the overall creative result.
 
