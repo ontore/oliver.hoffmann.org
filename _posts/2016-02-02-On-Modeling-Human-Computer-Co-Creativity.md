@@ -35,7 +35,7 @@ CC has its roots in Artificial Intelligence (AI). As in all AI-related disciplin
 
 Computers do not develop and learn like human individuals, they are constructed by computer engineers. To give computers knowledge, AI researchers have invented various types of *knowledge representation*, leading to extended discussions on what constitutes the best type of knowledge representation.
 
-![computer levels according to Newell](http://res.cloudinary.com/ontore/image/upload/v1459275606/levels_htbhcg.svg)
+![computer levels according to Newell](http://res.cloudinary.com/ontore/image/upload/v1459276162/levels_byynfg.svg)
 
 Alan Newell has tried to settle this controversy within AI and his proposal is very illustrative of the content and method of AI research. He formulated a hypothesis claiming knowledge would reside in a virtual computer system level called the <span>*knowledge level*</span>. According to Newell (1982) the levels all share the following properties: Higher levels do not have to know about the specific implementation of lower levels. Each level can be reduced to the level below. And each level has its unique medium.
 
