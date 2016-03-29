@@ -68,8 +68,7 @@ So the Press aspect of creativity can be seen as mandating a certain amount of r
 
 Radical constructivism is of course not suited for describing computer systems, since computer systems are expected to work correctly and autonomously. The kind of radical realism adopted in AI on the other hand is ill suited for understanding human creativity which relies on the subject’s ability of creating new and unexpected meaning. This does not imply that computer systems cannot be creative. It does however imply that the world view typically adopted in computing is inherently limited in its ability to describe and understand creativity. Divergent thinking is the one aspect of human creativity highlighting the shortcomings of the standard view of knowledge and meaning in computing: Any symbol, any meaning and the relevance of any information or assumption are up for re-interpretation in the divergent thinking stage of the creative process. $$HC^3$$ involves both human actors and computer systems, therefore a scientific model of $$HC^3$$ will have to accommodate both world views.
 
-What a model could look like
-============================
+## What a model could look like
 
 In spite of the objectivist/realist notions for describing computer systems, AI researchers have repeatedly argued that their models do not have to conform to the objectivist requirement of falsifiability formulated by Popper (1935). Which assumptions from computing have been validated and should be incorporated in an integrated model?
 
@@ -83,17 +82,19 @@ While such a form of scientific discovery might be appropriate for the developme
 
 ![explicit convergent and divergent thinking roles](http://res.cloudinary.com/ontore/image/upload/v1459276965/zauberer_yeis8l.svg)
 
+(Convergent thinking: police, divergent thinking: wizard)
+
 As opposed to the typical CC model, a model of $$HC^3$$ cannot be a computer model. The human and computer side of such an interaction are different and will have to be described in different ways. The objectivist/realist world view will be more suitable for describing the computer system, the subjectivist/constructivist view more suitable for describing the human partner. Their interaction will have to be described from both the human and computer perspective as well. The model should accommodate all the key notions from relevant research fields and describe compatible computer system properties. It should describe the interactions between humans and computers and the creative process. It should incorporate both an objectivist and a subjectivist understanding of knowledge and should explain the role of knowledge in the creative process.
 
-I propose using an explicit description of human and computer <span>*roles*</span> as the starting point for such an integrated model. Human and computer partners might fulfill such a role in different ways, but in a creative co-operation, each partner should be able to perform identifiable roles at a given stage of the process (Fig.  [fig:roles]).
+I propose using an explicit description of human and computer *roles* as the starting point for such an integrated model. Human and computer partners might fulfill such a role in different ways, but in a creative co-operation, each partner should be able to perform identifiable roles at a given stage of the process.
 
-![human agent in divergent and computer agent in convergent roles<span data-label="fig:human-computer4"></span>](human-computer4.eps)
+![human agent in divergent and computer agent in convergent roles](http://res.cloudinary.com/ontore/image/upload/v1459277136/human-computer4_sgt0yb.svg)
 
-We know that humans cannot employ convergent and divergent thinking at the same time. If computers can in fact augment human creativity in the way described above, the computer partner should be able to augment the human partner by performing the matching, opposite role. The scenario described by Vannemar Bush can then be classified as the type of interaction with a human agent in the divergent and a computer agent in the convergent role (Fig.  [fig:human-computer4]).
+We know that humans cannot employ convergent and divergent thinking at the same time. If computers can in fact augment human creativity in the way described above, the computer partner should be able to augment the human partner by performing the matching, opposite role. The scenario described by Vannemar Bush can then be classified as the type of interaction with a human agent in the divergent and a computer agent in the convergent role.
 
-If both agents are to operate on a joint representation of the creative task, they will have to share some sort of knowledge representation. If divergent and convergent roles are identifiable, their impact on this knowledge representation should be identifiable as well. I propose the terms <span>*diversion*</span> and <span>*consolidation*</span> for the effect of applying divergent and convergent thinking on knowledge representation. Diversion of knowledge involves selectively disconnecting symbols, meaning and information and re-creating connections irrespective of external and internal constraints. Consolidation of knowledge involves merging previously inconsistent symbols, meaning and information into a new consistency. Concept blending Pereira (2007) can for instance be seen as a type of knowledge consolidation.
+If both agents are to operate on a joint representation of the creative task, they will have to share some sort of knowledge representation. If divergent and convergent roles are identifiable, their impact on this knowledge representation should be identifiable as well. I propose the terms *diversion* and *consolidation* for the effect of applying divergent and convergent thinking on knowledge representation. Diversion of knowledge involves selectively disconnecting symbols, meaning and information and re-creating connections irrespective of external and internal constraints. Consolidation of knowledge involves merging previously inconsistent symbols, meaning and information into a new consistency. Concept blending Pereira (2007) can for instance be seen as a type of knowledge consolidation.
 
-![human agent in convergent and computer agent in divergent roles<span data-label="fig:human-computer5"></span>](human-computer5.eps)
+![human agent in convergent and computer agent in divergent roles](http://res.cloudinary.com/ontore/image/upload/v1459277222/human-computer5_u3nsql.svg)
 
 In the general sense, this analysis is based on several hypotheses:
 
@@ -131,14 +132,15 @@ Among other things, these hypotheses entail that a scenario opposite to those de
 
 If this model is correct, human and computer can be creative in very different ways. The properties for the design of creativity support systems will be different for each of these scenarios, but if these hypotheses are correct, some properties will be relevant for all of them. Neither human nor computer would have to be creative on their own. But if we want to identify Human-Computer Co-Creativity, then we should be able to identify the stages of such a process as well as the overall creative result.
 
-Conclusion
-==========
+## Conclusion
 
 Human-Computer Co-Creativity is an old research goal which has seen renewed interest in the form of Creativity Support Tools in the last years. A general model of $$HC^3$$ would have to describe any kind of co-creativity and account for all relevant human and computer contributions as one system. Such a general model of the process of $$HC^3$$ is still missing.
 
 Elements for such a model can be found in research fields for different aspects of $$HC^3$$. Therefore a synthesis of research results is an appropriate option for building a model. But the respective research communities are exhibiting fundamental differences in research culture and epistemology, which have to be acknowledged and considered. A unified model should include the key concept of divergent thinking and account for the processing and exchange of knowledge.
 
 Explicit specification of roles played by human or computer partner can serve as a means for integrating these aspects. I am formulating the hypothesis that both human and computer can be the agents for either convergent or divergent thinking in the creative process. Verification or falsification of this model will depend on a mechanism for identifying these roles in an empirical setting.
+
+## References
 
 Bush, Vannevar. 1945. “As We May Think.” *Atlantic Monthly*, July.
 
