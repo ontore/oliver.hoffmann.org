@@ -18,7 +18,7 @@ We can evaluate computer system properties, but we do not have a reliable method
 Research Fields Fragmentation
 =============================
 
-![research topics for Human-Computer Co-Creativity](http://res.cloudinary.com/ontore/image/upload/v1459272462/hc3-fields_wjcixf.svg)
+![research topics for Human-Computer Co-Creativity](http://res.cloudinary.com/ontore/image/upload/v1459272462/hc3-fields_wjcixf.svg 'Label')
 
 Human-Computer Co-Creativity is a process resulting in a creative outcome and involving one or more human individual(s) and one or more computer system(s). A model of $$HC^3$$ would therefore have to account for the role of each of these three elements as well as the relationships between them (Figure  [fig:research-fields]). HCI has recently rediscovered Creativity Support Tools. But as a computing discipline, HCI is (again) focusing its efforts on the properties of the computer <span>*tool*</span>, rather than the creative process. Computational Creativity (CC) is investigating the entire creative process, but aims for developing creative computer systems as opposed to supporting human creativity. Human creativity itself is typically investigated independent of any computer interaction in Creativity Research (CR).
 
