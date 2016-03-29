@@ -20,9 +20,9 @@ Research Fields Fragmentation
 
 ![research topics for Human-Computer Co-Creativity <span data-label="fig:research-fields"></span>](hc3-fields)
 
-Human-Computer Co-Creativity is a process resulting in a creative outcome and involving one or more human individual(s) and one or more computer system(s). A model of HC^3 would therefore have to account for the role of each of these three elements as well as the relationships between them (Figure  [fig:research-fields]). HCI has recently rediscovered Creativity Support Tools. But as a computing discipline, HCI is (again) focusing its efforts on the properties of the computer <span>*tool*</span>, rather than the creative process. Computational Creativity (CC) is investigating the entire creative process, but aims for developing creative computer systems as opposed to supporting human creativity. Human creativity itself is typically investigated independent of any computer interaction in Creativity Research (CR).
+Human-Computer Co-Creativity is a process resulting in a creative outcome and involving one or more human individual(s) and one or more computer system(s). A model of $$HC^3$$ would therefore have to account for the role of each of these three elements as well as the relationships between them (Figure  [fig:research-fields]). HCI has recently rediscovered Creativity Support Tools. But as a computing discipline, HCI is (again) focusing its efforts on the properties of the computer <span>*tool*</span>, rather than the creative process. Computational Creativity (CC) is investigating the entire creative process, but aims for developing creative computer systems as opposed to supporting human creativity. Human creativity itself is typically investigated independent of any computer interaction in Creativity Research (CR).
 
-HC^3 research is fractured. While there are several research communities working on some of the relevant topics, there is no research community dedicated to understanding all of them in conjunction. The obvious task would then be combining research results from these communities. But trans-disciplinary research is facing fundamental differences in research culture. CR has grown out of psychology and its methods. HCI and CC are sub-disciplines of computer science. As engineering disciplines, the latter two are primarily concerned with working towards clearly defined outcomes, while the former places more emphasis on understanding a pre-existing phenomenon. When research is synthesized across these disciplines, key notions and their meaning have to be accommodated.
+$$HC^3$$ research is fractured. While there are several research communities working on some of the relevant topics, there is no research community dedicated to understanding all of them in conjunction. The obvious task would then be combining research results from these communities. But trans-disciplinary research is facing fundamental differences in research culture. CR has grown out of psychology and its methods. HCI and CC are sub-disciplines of computer science. As engineering disciplines, the latter two are primarily concerned with working towards clearly defined outcomes, while the former places more emphasis on understanding a pre-existing phenomenon. When research is synthesized across these disciplines, key notions and their meaning have to be accommodated.
 
 Knowledge in Computer Science
 =============================
@@ -67,7 +67,7 @@ Convergent thinking is important for creativity as well. But the normal, converg
 
 So the Press aspect of creativity can be seen as mandating a certain amount of realism/objectivism. But external constraints can also be interpreted from a radical constructivist point of view. In his highly influential study, Csikszentmihalyi Csikszentmihalyi (1997) has for instance argued, that creativity can only be evaluated against its social frame of reference, denying any realist aspect of creativity.
 
-Radical constructivism is of course not suited for describing computer systems, since computer systems are expected to work correctly and autonomously. The kind of radical realism adopted in AI on the other hand is ill suited for understanding human creativity which relies on the subject’s ability of creating new and unexpected meaning. This does not imply that computer systems cannot be creative. It does however imply that the world view typically adopted in computing is inherently limited in its ability to describe and understand creativity. Divergent thinking is the one aspect of human creativity highlighting the shortcomings of the standard view of knowledge and meaning in computing: Any symbol, any meaning and the relevance of any information or assumption are up for re-interpretation in the divergent thinking stage of the creative process. HC^3 involves both human actors and computer systems, therefore a scientific model of HC^3 will have to accommodate both world views.
+Radical constructivism is of course not suited for describing computer systems, since computer systems are expected to work correctly and autonomously. The kind of radical realism adopted in AI on the other hand is ill suited for understanding human creativity which relies on the subject’s ability of creating new and unexpected meaning. This does not imply that computer systems cannot be creative. It does however imply that the world view typically adopted in computing is inherently limited in its ability to describe and understand creativity. Divergent thinking is the one aspect of human creativity highlighting the shortcomings of the standard view of knowledge and meaning in computing: Any symbol, any meaning and the relevance of any information or assumption are up for re-interpretation in the divergent thinking stage of the creative process. $$HC^3$$ involves both human actors and computer systems, therefore a scientific model of $$HC^3$$ will have to accommodate both world views.
 
 What a model could look like
 ============================
@@ -78,11 +78,11 @@ Newells knowledge level hypothesis was for instance meant to be validated via th
 
 But the research approach described by this hypothesis is still applied today, so his hypothesis should rather be regarded as a description of research culture. Rather than documenting all of their failures, computer engineers tend to modify their computer models until they arrive at a working prototype. Falsification has a very low priority in computing, to the degree that the criterion of falsifiability is argued to be irrelevant for instance in cognitive science Cooper (2007)
 
-While such a form of scientific discovery might be appropriate for the development of purely artificial systems, it certainly cannot be applied to a phenomenon involving human actors. A scientific model of HC^3 has to incorporate falsifiable hypotheses.
+While such a form of scientific discovery might be appropriate for the development of purely artificial systems, it certainly cannot be applied to a phenomenon involving human actors. A scientific model of $$HC^3$$ has to incorporate falsifiable hypotheses.
 
 ![explicit convergent and divergent thinking roles<span data-label="fig:roles"></span>](polizei.eps "fig:") ![explicit convergent and divergent thinking roles<span data-label="fig:roles"></span>](zauberer.eps "fig:")
 
-As opposed to the typical CC model, a model of HC^3 cannot be a computer model. The human and computer side of such an interaction are different and will have to be described in different ways. The objectivist/realist world view will be more suitable for describing the computer system, the subjectivist/constructivist view more suitable for describing the human partner. Their interaction will have to be described from both the human and computer perspective as well. The model should accommodate all the key notions from relevant research fields and describe compatible computer system properties. It should describe the interactions between humans and computers and the creative process. It should incorporate both an objectivist and a subjectivist understanding of knowledge and should explain the role of knowledge in the creative process.
+As opposed to the typical CC model, a model of $$HC^3$$ cannot be a computer model. The human and computer side of such an interaction are different and will have to be described in different ways. The objectivist/realist world view will be more suitable for describing the computer system, the subjectivist/constructivist view more suitable for describing the human partner. Their interaction will have to be described from both the human and computer perspective as well. The model should accommodate all the key notions from relevant research fields and describe compatible computer system properties. It should describe the interactions between humans and computers and the creative process. It should incorporate both an objectivist and a subjectivist understanding of knowledge and should explain the role of knowledge in the creative process.
 
 I propose using an explicit description of human and computer <span>*roles*</span> as the starting point for such an integrated model. Human and computer partners might fulfill such a role in different ways, but in a creative co-operation, each partner should be able to perform identifiable roles at a given stage of the process (Fig.  [fig:roles]).
 
@@ -96,17 +96,17 @@ If both agents are to operate on a joint representation of the creative task, th
 
 In the general sense, this analysis is based on several hypotheses:
 
-1.  HC^3 exists as a unique phenomenon
+1.  $$HC^3$$ exists as a unique phenomenon
 
-2.  Creativity as resulting from HC^3 can be measured in the same way as human creativity
+2.  Creativity as resulting from $$HC^3$$ can be measured in the same way as human creativity
 
-3.  HC^3 is more than the sum of its parts: The creative co-operation of computer(s) and person(s) yield results that are either more creative or creative in a different way
+3.  $$HC^3$$ is more than the sum of its parts: The creative co-operation of computer(s) and person(s) yield results that are either more creative or creative in a different way
 
-4.  The HC^3 process has observable properties and has general properties independent of application domain
+4.  The $$HC^3$$ process has observable properties and has general properties independent of application domain
 
 5.  the process of creative co-operation is different from other types of HCI
 
-6.  HC^3 requires both convergent and divergent thinking
+6.  $$HC^3$$ requires both convergent and divergent thinking
 
 7.  divergent thinking involves the diversion of knowledge
 
@@ -114,9 +114,9 @@ In the general sense, this analysis is based on several hypotheses:
 
 9.  human and computer partners can each perform the role of convergent or convergent agent, but in fundamentally different ways and never at the same time
 
-10. Each step in the HC^3 process can be characterized by the flow of control and exchange of knowledge between human and computer partner
+10. Each step in the $$HC^3$$ process can be characterized by the flow of control and exchange of knowledge between human and computer partner
 
-By such a deep integration of key research notions across disciplines, system properties such as openness or playfulness Voigt, Niehaves, and Becker (2012) can be analyzed in a systematic way, for instance as resulting from the availability of knowledge diversion tools. HC^3 is an iterative process, and in each of the process stages, human or computer can perform one of the following functions:
+By such a deep integration of key research notions across disciplines, system properties such as openness or playfulness Voigt, Niehaves, and Becker (2012) can be analyzed in a systematic way, for instance as resulting from the availability of knowledge diversion tools. $$HC^3$$ is an iterative process, and in each of the process stages, human or computer can perform one of the following functions:
 
 1.  diverge: multiple options are explored with little regard for consistency or correctness
 
@@ -133,9 +133,9 @@ If this model is correct, human and computer can be creative in very different w
 Conclusion
 ==========
 
-Human-Computer Co-Creativity is an old research goal which has seen renewed interest in the form of Creativity Support Tools in the last years. A general model of HC^3 would have to describe any kind of co-creativity and account for all relevant human and computer contributions as one system. Such a general model of the process of HC^3 is still missing.
+Human-Computer Co-Creativity is an old research goal which has seen renewed interest in the form of Creativity Support Tools in the last years. A general model of $$HC^3$$ would have to describe any kind of co-creativity and account for all relevant human and computer contributions as one system. Such a general model of the process of $$HC^3$$ is still missing.
 
-Elements for such a model can be found in research fields for different aspects of HC^3. Therefore a synthesis of research results is an appropriate option for building a model. But the respective research communities are exhibiting fundamental differences in research culture and epistemology, which have to be acknowledged and considered. A unified model should include the key concept of divergent thinking and account for the processing and exchange of knowledge.
+Elements for such a model can be found in research fields for different aspects of $$HC^3$$. Therefore a synthesis of research results is an appropriate option for building a model. But the respective research communities are exhibiting fundamental differences in research culture and epistemology, which have to be acknowledged and considered. A unified model should include the key concept of divergent thinking and account for the processing and exchange of knowledge.
 
 Explicit specification of roles played by human or computer partner can serve as a means for integrating these aspects. I am formulating the hypothesis that both human and computer can be the agents for either convergent or divergent thinking in the creative process. Verification or falsification of this model will depend on a mechanism for identifying these roles in an empirical setting.
 
