@@ -79,7 +79,9 @@ But the research approach described by this hypothesis is still applied today, s
 
 While such a form of scientific discovery might be appropriate for the development of purely artificial systems, it certainly cannot be applied to a phenomenon involving human actors. A scientific model of $$HC^3$$ has to incorporate falsifiable hypotheses.
 
-![explicit convergent and divergent thinking roles<span data-label="fig:roles"></span>](polizei.eps "fig:") ![explicit convergent and divergent thinking roles<span data-label="fig:roles"></span>](zauberer.eps "fig:")
+![explicit convergent and divergent thinking roles](http://res.cloudinary.com/ontore/image/upload/v1459276893/polizei_q9ajne.svg)
+
+![explicit convergent and divergent thinking roles](http://res.cloudinary.com/ontore/image/upload/v1459276965/zauberer_yeis8l.svg)
 
 As opposed to the typical CC model, a model of $$HC^3$$ cannot be a computer model. The human and computer side of such an interaction are different and will have to be described in different ways. The objectivist/realist world view will be more suitable for describing the computer system, the subjectivist/constructivist view more suitable for describing the human partner. Their interaction will have to be described from both the human and computer perspective as well. The model should accommodate all the key notions from relevant research fields and describe compatible computer system properties. It should describe the interactions between humans and computers and the creative process. It should incorporate both an objectivist and a subjectivist understanding of knowledge and should explain the role of knowledge in the creative process.
 
