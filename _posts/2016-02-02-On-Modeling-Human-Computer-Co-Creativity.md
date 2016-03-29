@@ -1,4 +1,4 @@
-(web version for the paper contained in [[Knowledge, Information and Creativity Support Systems](http://res.cloudinary.com/ontore/image/upload/c_scale,h_300/v1459274225/2016-02-02-kicss-book_moecxr.jpg)](http://www.springer.com/us/book/9783319274775))
+web version for the paper contained in [[Knowledge, Information and Creativity Support Systems](http://res.cloudinary.com/ontore/image/upload/c_scale,h_300/v1459274225/2016-02-02-kicss-book_moecxr.jpg)](http://www.springer.com/us/book/9783319274775)
 
 **Abstract:**
 
