@@ -1,4 +1,4 @@
-(web version for http://www.springer.com/us/book/9783319274775)
+(web version for <http://www.springer.com/us/book/9783319274775>)
 
 **Abstract:**
 
