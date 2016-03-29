@@ -37,18 +37,18 @@ Computers do not develop and learn like human individuals, they are constructed 
 
 ![computer levels according to Newell](http://res.cloudinary.com/ontore/image/upload/v1459275606/levels_htbhcg.svg)
 
-Alan Newell has tried to settle this controversy within AI and his proposal is very illustrative of the content and method of AI research. He formulated a hypothesis claiming knowledge would reside in a virtual computer system level called the <span>*knowledge level*</span>. According to Newell Newell (1982) the levels in (Figure  [fig:levels]) all share the following properties: Higher levels do not have to know about the specific implementation of lower levels. Each level can be reduced to the level below. And each level has its unique medium.
+Alan Newell has tried to settle this controversy within AI and his proposal is very illustrative of the content and method of AI research. He formulated a hypothesis claiming knowledge would reside in a virtual computer system level called the <span>*knowledge level*</span>. According to Newell (1982) the levels all share the following properties: Higher levels do not have to know about the specific implementation of lower levels. Each level can be reduced to the level below. And each level has its unique medium.
 
 According to Newell’s hypothesis, knowledge is a medium of computation just like electrons or software symbols and it consists of goals, actions and bodies, governed by the principle of rationality. By delegating knowledge to a new computer system level, Newell removed the need for deciding on the best form of knowledge representation: Any representation can implement knowledge in its own way.
 
-But there is no knowledge without symbols, a view consistent with the earlier <span>*physical symbol systems*</span> hypothesis Newell and Simon (1976). A discussion of competing views such as <span>*subsymbolic AI*</span> would be beyond the scope of this article, but as Newell correctly points out, his levels metaphor follows the practice of AI and computer science research in general.
+But there is no knowledge without symbols, a view consistent with the earlier *physical symbol systems* hypothesis (Newell and Simon 1976). A discussion of competing views such as *subsymbolic AI* would be beyond the scope of this article, but as Newell correctly points out, his levels metaphor follows the practice of AI and computer science research in general.
 
-The primary goal of computer science is to make computers more powerful and to ensure that computed results are correct at all times. Then how is correctness verified on the knowledge level? The highest directly observable system level contains symbols that might or might not encode some specific knowledge, but knowledge itself would be removed from direct observation. Newell proposed a mechanism of indirect verification: If some (human or artificial) <span>*agent*</span> A can detect the impact of some specific knowledge in the actions of another agent B, agent A can verify the presence of such knowledge in agent B.
+The primary goal of computer science is to make computers more powerful and to ensure that computed results are correct at all times. Then how is correctness verified on the knowledge level? The highest directly observable system level contains symbols that might or might not encode some specific knowledge, but knowledge itself would be removed from direct observation. Newell proposed a mechanism of indirect verification: If some (human or artificial) *agent* A can detect the impact of some specific knowledge in the actions of another agent B, agent A can verify the presence of such knowledge in agent B.
 
 Objectivist/Realist World View
 ==============================
 
-![how do different observing agents agree on the presence of knowledge?<span data-label="fig:3agents"></span>](3agents.pdf)
+![how do different observing agents agree on the presence of knowledge?](http://res.cloudinary.com/ontore/image/upload/v1459276171/3agents_af3vuu.svg)
 
 The world view underlying the computer science notion of knowledge can be described as <span>*objectivist*</span> or <span>*realist*</span>, which can be detected by discussing those aspects that authors like Newell do not discuss, and the questions that are not answered. A good example is: More than one agent could take the role of the observing agent A in Newell’s knowledge verification mechanism and the different As could come to different conclusions on whether knowledge is present in agent B (Fig.  [fig:3agents]).
 
