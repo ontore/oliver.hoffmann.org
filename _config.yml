@@ -7,9 +7,9 @@ rdiscount:
   extensions: [smart]
 
 # User Options
-name: 霍夫曼
+name: Oliver Hoffmann
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: Oliver P Hoffmann
+description: 
 email: 
 twitter: wiemanindenwald
 icon_url: http://res.cloudinary.com/ontore/image/upload/c_scale,w_240/v1464252290/oliver.jpg
