@@ -7,7 +7,7 @@ rdiscount:
   extensions: [smart]
 
 # User Options
-name: Oliver Hoffmann
+name: Wie man in den Wald
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
 description: 
 email: 
